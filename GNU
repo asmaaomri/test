@@ -1,0 +1,1 @@
+GNU est un  système d’exploitation libre de noyau Linux.les logiciels aui composent GNU sont utilises en associations avec des logiciels libres proveneant d'autres projets tels que le noyau Linux. 
